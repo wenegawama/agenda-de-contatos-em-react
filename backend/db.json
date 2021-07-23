@@ -1,32 +1,22 @@
 {
   "users": [
     {
-      "id": 1,
-      "nome": "John Doe",
-      "email": "john@doe.email",
-      "telefone":999371957
+      "name": "william",
+      "email": "will@gmail.com",
+      "telefone": "41999979191",
+      "id": 8
     },
     {
-      "id": 2,
-      "nome": "Foo Bar",
-      "email": "john@doe.email",
-      "telefone":999371900
+      "name": "narcisse",
+      "email": "narcissewatherloy@gmail.com",
+      "telefone": "49999371957",
+      "id": 9
     },
     {
-      "id": 3,
-      "nome": "Alice and Bob",
-      "email": "john@doe.email",
-      "telefone":999111957
-    },
-    {
-      "name": "",
-      "email": "",
-      "id": 4
-    },
-    {
-      "name": "",
-      "email": "",
-      "id": 5
+      "name": "toti",
+      "email": "toti@gmail.com",
+      "telefone": "111111111",
+      "id": 10
     }
   ]
 }
